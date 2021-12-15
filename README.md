@@ -4,7 +4,18 @@
 
 My links
 
-Languages and tools
+## Languages and tools
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C&logoColor=900953)
+![C#](https://img.shields.io/badge/-Csharp-090909?style=for-the-badge&logo=C&logoColor=900953)
+![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=GO&logoColor=93200)
+![HTML,CSS](https://img.shields.io/badge/-HTML/CSS-090909?style=for-the-badge&logo=css&logoColor=93200)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=93200)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgreSQL&logoColor=93200)
+![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=Redis&logoColor=93200)
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=93200)
+![Netcat](https://img.shields.io/badge/-Netcat/Telnet-090909?style=for-the-badge&logo=&logoColor=93200)
+
+
 
 
 
