@@ -2,7 +2,7 @@
 
 ## I'm Golang developer. For about three years I have been programming in C # and C ++, but now I want to completely immerse myself in GO
 
-My links
+
 
 ## Languages and tools
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C&logoColor=900953)
@@ -14,6 +14,14 @@ My links
 ![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=Redis&logoColor=93200)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=93200)
 ![Netcat](https://img.shields.io/badge/-Netcat/Telnet-090909?style=for-the-badge&logo=&logoColor=93200)
+
+## Follow me
+[![Telgram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/questee)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/questee_)
+[![VKontakte](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=VK)](https://vk.com/questee)
+[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter)]()
+
+
 
 
 
